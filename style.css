@@ -40,8 +40,8 @@ body{
 
 .custom-cursor{
     position: absolute;
-    width: 30px;
-    height: 30px;
+    width: 60px;
+    height: 60px;
     background-color: aliceblue;
     border-radius: 40%;
     animation:cursoranimation 0,5 infinite alternate;
