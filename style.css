@@ -1,26 +1,49 @@
+.catalogologo {
+    height: 150px;
+    margin: 15px;
+
+}
+
 body {
-background-image: url(../fotospom/fondo.jpg);
-display: inline-block;
-justify-content: center;
-animation: reverse 1seg;
-background-color: rgb(203, 243, 244);
-background-size: cover;
-}
-h1{
-    color: white;
-}
-
-h2{
-    color: white;
-}
-
-div{
     background-image: url(../fotospom/fondo.jpg);
-    background-size:  500px;
+    display: inline-block;
+    justify-content: center;
+    animation: reverse 1seg;
+    background-color: rgb(203, 243, 244);
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+div {
+    background-image: url(../fotospom/fondo.jpg);
+    background-size: 500px;
     background-position: center;
     background-repeat: initial;
+
 }
 
-section{
+section {
     background-image: url(../fotospom/fondo.jpg);
 }
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+.custom-cursor{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 40%;
+    animation:cursor.png 0,5 infinite alternate;
+}
+
