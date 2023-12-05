@@ -3,6 +3,24 @@ background-image: url(../fotospom/fondo.jpg);
 display: inline-block;
 justify-content: center;
 animation: reverse 1seg;
-background-color: rgb(160, 160, 197);
+background-color: rgb(203, 243, 244);
 background-size: cover;
+}
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+div{
+    background-image: url(../fotospom/fondo.jpg);
+    background-size:  500px;
+    background-position: center;
+    background-repeat: initial;
+}
+
+section{
+    background-image: url(../fotospom/fondo.jpg);
 }
