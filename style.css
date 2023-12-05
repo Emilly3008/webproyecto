@@ -44,6 +44,6 @@ body{
     height: 30px;
     background-color: aliceblue;
     border-radius: 40%;
-    animation:cursor.png 0,5 infinite alternate;
+    animation:cursoranimation 0,5 infinite alternate;
 }
 
