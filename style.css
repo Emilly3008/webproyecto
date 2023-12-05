@@ -3,5 +3,6 @@ background-image: url(../fotospom/fondo.jpg);
 display: inline-block;
 justify-content: center;
 animation: reverse 1seg;
-background-color: blue;
+background-color: rgb(160, 160, 197);
+
 }
