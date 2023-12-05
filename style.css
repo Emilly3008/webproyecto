@@ -4,5 +4,5 @@ display: inline-block;
 justify-content: center;
 animation: reverse 1seg;
 background-color: rgb(160, 160, 197);
-
+background-size: cover;
 }
